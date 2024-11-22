@@ -4,6 +4,7 @@
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 성장 중인 개발자 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 꼼꼼하고 원리를 이해하는 폭풍 성장중인 백엔드 개발자입니다. 🔥🔥🔥 </div> 
+    <br/><br/>
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
@@ -22,6 +23,7 @@
           <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
           </div>
     </div>
+    <br/><br/>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://ti2soon.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://ti2soon.tistory.com/"> </a>
@@ -29,6 +31,7 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
+    <br/><br/>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=JunbeomKoreaUniv&bg_color=60,658cbc,00000000&title_color=ffffff&text_color=ffffff"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunbeomKoreaUniv&layout=compact&bg_color=60,658cbc,00000000&title_color=ffffff&text_color=ffffff"
