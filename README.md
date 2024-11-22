@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://ti2soon.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/000000?style=plastic&logo=appveyor&logoColor=000000"/></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunbeomKoreaUniv&show_icons=true&theme=radical)
